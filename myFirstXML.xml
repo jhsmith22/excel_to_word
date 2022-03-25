@@ -1,24 +1,23 @@
-<productListing title="ABC Products"> 
-  <product> 
-    <name>Product One</name> 
-    <description>Product One is an exciting new widget that will 
-      simplify your life.</description> 
-    <cost>$19.95</cost> 
-    <shipping>$2.95</shipping> 
-  </product> 
-  <product> 
-    <name>Product Two</name> 
-    <description>Product Two is an exciting new widget that will 
-      make you jump up and down.</description> 
-    <cost>$29.95</cost> 
-    <shipping>$5.95</shipping> 
-  </product> 
-  <product> 
-    <name>Product Three</name> 
-    <description>Product Three is better than Product One and 
-      Product Two combined! It really is as good as we say it 
- is--or your money back. </description> 
-    <cost>$39.95</cost> 
-    <shipping>$5.95</shipping> 
-  </product> 
- </productListing>
+<?xml version="1.0"?>
+<data>
+    <country name="Liechtenstein">
+        <rank>1</rank>
+        <year>2008</year>
+        <gdppc>141100</gdppc>
+        <neighbor name="Austria" direction="E"/>
+        <neighbor name="Switzerland" direction="W"/>
+    </country>
+    <country name="Singapore">
+        <rank>4</rank>
+        <year>2011</year>
+        <gdppc>59900</gdppc>
+        <neighbor name="Malaysia" direction="N"/>
+    </country>
+    <country name="Panama">
+        <rank>68</rank>
+        <year>2011</year>
+        <gdppc>13600</gdppc>
+        <neighbor name="Costa Rica" direction="W"/>
+        <neighbor name="Colombia" direction="E"/>
+    </country>
+</data>
